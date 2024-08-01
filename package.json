@@ -1,5 +1,14 @@
 {
+  "name": "swiggy-clone",
+  "version": "1.0.0",
+  "description": "Swiggy clone application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
-    "heroku": "^7.59.2"
+    "express": "^4.17.1",
+    // other dependencies
   }
 }
