@@ -4,11 +4,11 @@
   "description": "Swiggy clone application",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "build": "node build",
+    "start": "node start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "express": "^4.17.1",
-    
   }
 }
